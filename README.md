@@ -41,7 +41,7 @@ View saved picture screenshot:
 
 Storyboard
 
-<img src="https://github.com/jiangxiaoxuan/mememe2.0-iosnanodegree/raw/master/screenshots/storyboard.png" width = 300/>
+<img src="https://github.com/jiangxiaoxuan/mememe2.0-iosnanodegree/raw/master/screenshots/storyboard.png"/>
 
 Class structure
 
