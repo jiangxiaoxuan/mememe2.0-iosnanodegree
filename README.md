@@ -15,7 +15,7 @@ Tapping on iOS UIKit
 Allow user to navigate forward and backward to retrieve saved pictures
 Picture collection should be displayed in both list and grid view
 
-## How to run the chatbot
+## How to run MemeMe app
 
 1. Clone locally: `https://github.com/jiangxiaoxuan/mememe2.0-iosnanodegree.git`
 2. Open Xcode
